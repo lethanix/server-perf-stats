@@ -1,4 +1,8 @@
 # Server Performance Stats
+
+> [!WARNING]
+> The development and experimentation of this tool has moved to the [lab repository](https://github.com/lethanix/lab).
+> 
 Bash script to analyse basic server performance stats. 
 
 The script is able to run on any Linux server and it provides the following stats:
